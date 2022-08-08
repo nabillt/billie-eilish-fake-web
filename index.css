@@ -1,0 +1,37 @@
+body{
+    color: rgba(204, 156, 68, 0.429);
+    background-image:url('http://www.psd-dude.com/tutorials/resources-images/beautiful-old-paper-textures/grunge-stained-old-paper-texture.jpg');
+}
+h1{
+    text-decoration: wavy;
+    font-size:170%;
+    color: aliceblue;
+    font-family: 'Trebuchet MS';
+    margin-top: 30px;
+}
+h2{
+    color: aliceblue;
+    font-family: 'Trebuchet MS';
+    font-size:170%;
+}
+form{
+    align-items: center;
+}
+fieldset{
+    color: black;
+}
+header{
+    color: aliceblue;
+    font-style: oblique;
+    font-family: 'Trebuchet MS';
+    font-size: 200%;
+
+}
+footer{
+    color: aliceblue;
+    font-family:'Trebuchet MS';
+}
+h5{
+    color: aliceblue;
+    font-family:'Trebuchet MS';
+}
